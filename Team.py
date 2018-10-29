@@ -6,7 +6,7 @@ name = student.name
 Team_list = []
 
 
-'''
+
 while len(name) >= 4 :
     team = []
 
@@ -21,4 +21,3 @@ if name:
 
 for i, val  in enumerate(Team_list):
     print(i+1,'조: ', val)
-'''
