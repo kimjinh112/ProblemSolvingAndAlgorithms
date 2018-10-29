@@ -1,6 +1,7 @@
 import random
 import student
 
+
 name = student.name
 Team_list = []
 
