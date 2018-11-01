@@ -1,5 +1,5 @@
 def attend(names):
-    for m in member:
+    for m in names:
         print('출석,', m)
 
 
